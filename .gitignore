@@ -1,0 +1,11 @@
+
+.vs/
+SDL_Game/
+x64/
+
+*.aps
+*.sln
+*vcxproj
+*.filters
+*.user
+*.dll
